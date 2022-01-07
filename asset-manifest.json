@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NaamKaran/static/css/main.9d484604.css",
+    "main.js": "/NaamKaran/static/js/main.d155e8c8.js",
+    "index.html": "/NaamKaran/index.html",
+    "main.9d484604.css.map": "/NaamKaran/static/css/main.9d484604.css.map",
+    "main.d155e8c8.js.map": "/NaamKaran/static/js/main.d155e8c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d484604.css",
+    "static/js/main.d155e8c8.js"
+  ]
+}
